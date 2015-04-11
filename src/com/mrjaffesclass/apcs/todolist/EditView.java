@@ -1,4 +1,4 @@
-package com.mrjaffesclass.apcs.todolist;
+package src.com.mrjaffesclass.apcs.todolist;
 import com.mrjaffesclass.apcs.messenger.*;
 
 /**
